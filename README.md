@@ -1,4 +1,6 @@
-# Image_Classification_ConvNet
+# Image Classification ConvNet
+
+Under the guidance of MS/Ph.D. student Dmitry Petrov, I worked on expanding CLIP research for developing a convolutional neural network capable of making accurate image-text pairings from CIFAR-10 data using word embeddings and computing cosine similarity. Implemented gloVe word embeddings and experimented with various activation functions and architectures for the model.
 
 # Learnings: 
 - Applied a convolutional neural network to CIFAR 10 dataset
